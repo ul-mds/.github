@@ -32,7 +32,7 @@ Have look at the overview of our ongoing and finished projects.
 | Repository                                             | Description                                                                               |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [HeteroMRI](https://github.com/ul-mds/HeteroMRI)       | A method for classification of heterogeneous brain magnetic resonance imaging (MRI) data. |
-| [FlexiMRIprep](https://github.com/ul-mds/FlexiMRIprep) | A MRI Pipeline for preprocessing Head MRI.                                                |
+| [FlexiMRIprep](https://github.com/ul-mds/FlexiMRIprep) | A MRI pipeline for preprocessing head MRI.                                                |
 
 
 **Repository templates**
