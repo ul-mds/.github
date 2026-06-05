@@ -7,15 +7,14 @@ Welcome to the GitHub profile of the Medical Data Science Department in Leipzig!
 
 Have look at the overview of our ongoing and finished projects.
 
-**Privacy-preserving Record Linkage (PPRL)**
+**Privacy-preserving Record Linkage (PPRL) with FABLE**
 
-| Repository                                             | Description                                                                                                |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| [pprl](https://github.com/ul-mds/pprl)                 | Collection of software packages for performing privacy-preserving record linkage based on Bloom filters.   |
-| [pprl-client](https://github.com/ul-mds/pprl-client)   | HTTP-based client for interacting with a service for privacy-preserving record linkage with Bloom filters. |
-| [pprl-service](https://github.com/ul-mds/pprl-service) | HTTP-based service for performing privacy-preserving record linkage with Bloom filters.                    |
-| [pprl-core](https://github.com/ul-mds/pprl-core)       | Facilities for performing privacy-preserving record linkage with Bloom filters.                            |
-| [pprl-model](https://github.com/ul-mds/pprl-model)     | Data models for use with a HTTP-based service for privacy-preserving record linkage using Bloom filters.   |
+| Repository                                                         | Description                                                                                                        |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [fable-client](https://github.com/ul-mds/fable-client)             | HTTP-based client for interacting with the FABLE service for privacy-preserving record linkage with Bloom filters. |
+| [fable-pprl-service](https://github.com/ul-mds/fable-pprl-service) | HTTP-based service for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.     |
+| [fable-core](https://github.com/ul-mds/fable-core)                 | Facilities required for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.    |
+| [fable-model](https://github.com/ul-mds/fable-model)               | Data models utilized in the FABLE ecosystem's HTTP-based PPRL service.                                             |
 
 
 **Synthetic personal data**
