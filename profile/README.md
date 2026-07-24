@@ -9,12 +9,13 @@ Have look at the overview of our ongoing and finished projects.
 
 **Privacy-preserving Record Linkage (PPRL) with FABLE**
 
-| Repository                                                         | Description                                                                                                        |
-|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [fable-client](https://github.com/ul-mds/fable-client)             | HTTP-based client for interacting with the FABLE service for privacy-preserving record linkage with Bloom filters. |
-| [fable-pprl-service](https://github.com/ul-mds/fable-pprl-service) | HTTP-based service for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.     |
-| [fable-core](https://github.com/ul-mds/fable-core)                 | Facilities required for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.    |
-| [fable-model](https://github.com/ul-mds/fable-model)               | Data models utilized in the FABLE ecosystem's HTTP-based PPRL service.                                             |
+| Repository                                                         | Description                                                                                                                                        |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [fable-client](https://github.com/ul-mds/fable-client)             | HTTP-based client for interacting with the FABLE services for privacy-preserving record linkage with Bloom filters.                                |
+| [fable-pprl-service](https://github.com/ul-mds/fable-pprl-service) | HTTP-based service for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.                                     |
+| [fable-broker](https://github.com/ul-mds/fable-broker)             | HTTP-based service for handling match sessions and providing results to clients in a Bloom filter-based privacy-preserving record linkage context. |
+| [fable-core](https://github.com/ul-mds/fable-core)                 | Facilities required for performing privacy-preserving record linkage with Bloom filters in the FABLE ecosystem.                                    |
+| [fable-model](https://github.com/ul-mds/fable-model)               | Data models utilized in the FABLE ecosystem's HTTP-based PPRL service.                                                                             |
 
 
 **Synthetic personal data**
