@@ -35,6 +35,13 @@ Have look at the overview of our ongoing and finished projects.
 | [FlexiMRIprep](https://github.com/ul-mds/FlexiMRIprep) | A MRI pipeline for preprocessing head MRI.                                                |
 
 
+**Miscellaneous**
+
+| Repository                                                             | Description                                                                                                                |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [mosaic-python-client](https://github.com/ul-mds/mosaic-python-client) | Zeep client for interacting with the SOAP interfaces provided by E-PIX and gPAS of the MOSAIC suite by the THS Greifswald. |
+
+
 **Repository templates**
 
 | Repository                                                   | Description                                    |
