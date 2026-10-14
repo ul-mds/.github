@@ -32,7 +32,8 @@ Have look at the overview of our ongoing and finished projects.
 | Repository                                             | Description                                                                               |
 |--------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [HeteroMRI](https://github.com/ul-mds/HeteroMRI)       | A method for classification of heterogeneous brain magnetic resonance imaging (MRI) data. |
-| [FlexiMRIprep](https://github.com/ul-mds/FlexiMRIprep) | A MRI pipeline for preprocessing head MRI.                                                |
+| [FlexiMRIprep](https://github.com/ul-mds/FlexiMRIprep) | A MRI pipeline for preprocessing brain MRI.                                                |
+| [Synthetic Multiple Sclerosis Lesions](https://github.com/ul-mds/exploring-the-generation-of-synthetic-multiple-sclerosis-lesions-in-healthy-3d-brain-mris-using-gans) | Generation of synthetic multiple sclerosis lesions in healthy 3D brain MRIs using GANs |
 
 
 **Miscellaneous**
